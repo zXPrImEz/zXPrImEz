@@ -1,28 +1,150 @@
+### 💻 &nbsp;About Me 
 
-![zXPrImEz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zXPrImEz&show_icons=true&theme=tokyonight) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zXPrImEz&theme=tokyonight)](https://github.com/zXPrImEz)
+- 🥳 &nbsp; September 16, 2007 (14 y/o)
+- 🇩🇪 &nbsp; Living in Germany 
+
+
+<br>
+
+
+
+
+
+
+### 💻 My Stats
+
+<br>
+  
+  <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <br>
+
+  
+  
+  
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=zskillcode&theme=nightowl&show_icons=true&count_private=true&hide_border=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zskillcode&theme=nightowl&hide_border=true" />
+
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zskillcode&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<br>
+
+
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+                                                                                    
+
+
+
+
+
+
+
+
+
+
+<br>
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=zskillcode&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
+<br>
+
+ <hr>
+
+
+
+
+
+
+<br>
+<p align="centre">
  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zskillcode&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
-**Programming languages / frameworks I use**
+
+
+
+
+
+
+
+ <br> 
  
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ead41c.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2f74c0.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  
-**Databases I use**
+ <hr>
+ 
+ <br>
 
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-192c5f.svg?style=for-the-badge&logo=mariadb&logoColor=white"/>	
+  <div align="center">
+  <h3><b>🌐 My Socials</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.youtube.com/zxprimez" target="_blank">
+  <img align="center" alt="YT" width="40px" src="https://img.icons8.com/color/100/000000/youtube-play.png" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/leon.53x/" target="_blank">
+  <img align="center" alt="Instagram" width="40px" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" />
+</a> &nbsp;&nbsp;
+<a href="#" target="_blank">
+  <img align="center" alt="Facebook" width="40px" src="https://img.icons8.com/color/96/000000/facebook-new.png" />
+</a> &nbsp;&nbsp;
+<a href="https://www.twitch.tv/zxprimeztf" >
+  <img align="center" alt="Twitch" width="40px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" />
+</a> &nbsp;&nbsp;
+<a href="https://discord.gg/csjmJafpPA">
+    <img align="center" alt="Discord" width="40px" src="https://img.icons8.com/color/96/000000/discord-new-logo.png" />
+</a> &nbsp;&nbsp;
+<p>
+  
+<br>
+  
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/zXPrImEz/count.svg" />  
+</p>
+   
   
   
-**Programs I use**
-
-  <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-00C7D0.svg?style=for-the-badge&logo=webstorm&logoColor=white"/> <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-b940da.svg?style=for-the-badge&logo=phpstorm&logoColor=white"/>
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-20D088.svg?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-310000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img alt="Adobe After Effects" src="https://img.shields.io/badge/adobeaftereffects-00005b.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
