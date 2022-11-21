@@ -115,7 +115,7 @@
 <a href="https://www.twitch.tv/zxprimeztf" >
   <img align="center" alt="Twitch" width="40px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" />
 </a> &nbsp;&nbsp;
-<a href="https://discord.gg/csjmJafpPA">
+<a href="https://discord.gg/qVBbvgsfmt">
     <img align="center" alt="Discord" width="40px" src="https://img.icons8.com/color/96/000000/discord-new-logo.png" />
 </a> &nbsp;&nbsp;
 <p>
