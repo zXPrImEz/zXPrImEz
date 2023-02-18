@@ -5,9 +5,11 @@
 
 <br>
 
-
-
-
+<br><br>
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-1/897935898195394572.png">
+</p>
+<br>
 
 
 ### 💻 My Stats
