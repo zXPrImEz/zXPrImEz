@@ -2,6 +2,7 @@
 <img style="border-radius: 10px;" src="https://cdn.discordapp.com/attachments/916671271390040104/1137610546569556038/localhost_8080_post_titlegithub.png">
 </a>
 
+<hr />
 <br>
   
 <div align=center>
