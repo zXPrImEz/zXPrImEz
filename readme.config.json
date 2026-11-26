@@ -1,0 +1,177 @@
+{
+  "$schema": "https://readme.niessen.dev/schema.json",
+  "version": 1,
+  "kind": "profile",
+  "profile": {
+    "login": "octocat",
+    "name": "Mona Octocat",
+    "roles": [
+      "Software Engineer",
+      "Open-source tinkerer",
+      "Coffee-driven developer"
+    ],
+    "bio": "I build calm, fast software and the tools around it.",
+    "company": "",
+    "pronouns": "",
+    "birthday": "",
+    "location": {
+      "city": "San Francisco",
+      "latitude": 37.77,
+      "longitude": -122.42,
+      "timezone": "America/Los_Angeles"
+    },
+    "links": [
+      {
+        "icon": "github",
+        "label": "GitHub",
+        "url": "https://github.com/octocat",
+        "handle": "@octocat"
+      },
+      {
+        "icon": "linkedin",
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/",
+        "handle": "in/octocat"
+      },
+      {
+        "icon": "website",
+        "label": "Website",
+        "url": "https://github.blog",
+        "handle": "github.blog"
+      }
+    ]
+  },
+  "project": {
+    "repo": "octocat/aurora",
+    "name": "",
+    "tagline": "A tiny, fast design-token compiler for multi-brand UI kits.",
+    "logo": "",
+    "homepage": "",
+    "packages": {
+      "npm": "",
+      "pypi": "",
+      "crates": ""
+    }
+  },
+  "theme": {
+    "preset": "sakura",
+    "overrides": {},
+    "font": "ibm-plex-mono",
+    "headingFont": "ibm-plex-mono",
+    "radius": 6,
+    "border": 1,
+    "texture": "lines",
+    "motion": "full",
+    "surface": true
+  },
+  "layout": [
+    {
+      "id": "r11au28rgk",
+      "align": "center",
+      "blocks": [
+        {
+          "id": "terminal",
+          "type": "terminal",
+          "options": {
+            "title": "",
+            "prompt": "arrow",
+            "cwd": "~",
+            "commands": [
+              {
+                "cmd": "whoami",
+                "output": "{b}{name|lower}{/}{?{m} — {role|lower}?}{?{m} @ {a}{b}{company}?}"
+              },
+              {
+                "cmd": "cat profile.json",
+                "output": "{m}{ {a}\"login\"{m}: {s}\"{login}\"{m}{?, {a}\"based\"{m}: {s}\"{city}\"?}{?{m}, {a}\"pronouns\"{m}: {s}\"{pronouns}\"?}{?{m}, {a}\"age\"{m}: {n}{age}?}{m},\n{m}  {a}\"repos\"{m}: {n}{repos}{m}, {a}\"followers\"{m}: {n}{followers}{m}, {a}\"streak\"{m}: {n}{streak}{m}, {a}\"coffee\"{m}: {n}Infinity{m} }"
+              },
+              {
+                "cmd": "uptime",
+                "output": "{?{m}up {n}{b}{uptime_days}{/}{m} days  ·  ?}{?{t}{uptime_note}{m}  ·  ?}{m}{year} is {t}{year_pct}%{m} done"
+              },
+              {
+                "cmd": "ls ~/stack",
+                "output": "{stack}"
+              }
+            ],
+            "stack": [
+              "typescript",
+              "react",
+              "node",
+              "python",
+              "go",
+              "docker",
+              "k8s",
+              "postgres",
+              "aws"
+            ],
+            "chrome": true,
+            "statusBar": true,
+            "tab": "[{login}] 0:zsh*",
+            "status": "git:main  ·  {followers} followers  ·  {clock}"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11au6ymgl",
+      "align": "center",
+      "blocks": [
+        {
+          "id": "contrib",
+          "type": "contrib",
+          "options": {
+            "label": "contributions · last 12 months",
+            "shape": "square",
+            "weekly": true,
+            "callout": true,
+            "beam": true,
+            "legend": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11au1mgm",
+      "align": "center",
+      "blocks": [
+        {
+          "id": "board",
+          "type": "board",
+          "options": {
+            "title": "departures · latest activity",
+            "rows": 6,
+            "clock": true,
+            "flaps": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11au1nwgn",
+      "align": "center",
+      "blocks": [
+        {
+          "id": "footer",
+          "type": "footer",
+          "options": {
+            "message": "rebuilt every night by readme studio",
+            "stamp": true,
+            "barcode": true,
+            "waves": true,
+            "credit": false
+          }
+        }
+      ]
+    }
+  ],
+  "output": {
+    "branch": "readme-studio",
+    "modes": [
+      "dark",
+      "light"
+    ],
+    "repository": "",
+    "schedule": "17 2 * * *"
+  }
+}
