@@ -3,22 +3,12 @@
   "version": 1,
   "kind": "profile",
   "profile": {
-    "login": "octocat",
-    "name": "Mona Octocat",
-    "roles": [
-      "Software Engineer",
-      "Open-source tinkerer",
-      "Coffee-driven developer"
-    ],
-    "bio": "I build calm, fast software and the tools around it.",
-    "company": "",
-    "pronouns": "",
-    "birthday": "",
+    "login": "zxprimez",
     "location": {
-      "city": "San Francisco",
+      "city": "Munich",
       "latitude": 37.77,
       "longitude": -122.42,
-      "timezone": "America/Los_Angeles"
+      "timezone": "Europe/Berlin"
     },
     "links": [
       {
@@ -43,10 +33,6 @@
   },
   "project": {
     "repo": "octocat/aurora",
-    "name": "",
-    "tagline": "A tiny, fast design-token compiler for multi-brand UI kits.",
-    "logo": "",
-    "homepage": "",
     "packages": {
       "npm": "",
       "pypi": "",
@@ -54,7 +40,7 @@
     }
   },
   "theme": {
-    "preset": "sakura",
+    "preset": "ultraviolet",
     "overrides": {},
     "font": "ibm-plex-mono",
     "headingFont": "ibm-plex-mono",
@@ -105,6 +91,11 @@
               "postgres",
               "aws"
             ],
+            "name": "Mona Octocat",
+            "role": "Design and Creative Work",
+            "company": "",
+            "pronouns": "",
+            "birthday": "",
             "chrome": true,
             "statusBar": true,
             "tab": "[{login}] 0:zsh*",
